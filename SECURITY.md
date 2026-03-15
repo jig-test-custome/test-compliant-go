@@ -1,7 +1,5 @@
+# JIG-START #
 # Security Policy
 
-<!-- JIG-START -->
-Managed security content.
-<!-- JIG-END -->
-
-Human-added footer.
+If you discover a security vulnerability, please report it to us at security@enterprise.com.
+# JIG-END #
