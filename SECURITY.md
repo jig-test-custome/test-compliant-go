@@ -12,5 +12,5 @@ Human-added footer.
 
 # Security Policy
 
-If you discover a security vulnerability, please report it to us at security@enterprise.com.
+If you discover a security vulnerability, please report it to us at global-sec@enterprise.com.
 <!-- JIG:END -->
