@@ -1,3 +1,11 @@
+# Security Policy
+
+<!-- JIG-START -->
+Managed security content.
+<!-- JIG-END -->
+
+Human-added footer.
+
 <!-- JIG:START -->
 > [!IMPORTANT]
 > **Managed by Jig** — Auto-generated compliance content. Manual edits _inside this block_ will be overwritten on next sync.
