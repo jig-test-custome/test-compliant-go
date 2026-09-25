@@ -14,7 +14,8 @@
 - Do not commit secrets, tokens, API keys, or credentials
 - Use structured commit messages for traceability (type: subject format)
 
-## FedRAMP Compliance (advisory)
-- Do not use commercial AI tools to process or generate federal contract information
-- All AI-generated code touching data handling must be reviewed before merge
+## CMMC Compliance (advisory)
+- Do not paste or reference Controlled Unclassified Information (CUI) in AI prompts or tool inputs
+- Any AI-assisted change to sensitive paths requires human review before merge
+- Use only FedRAMP-authorized tooling when working in CUI-adjacent repos
 <!-- JIG:END -->
